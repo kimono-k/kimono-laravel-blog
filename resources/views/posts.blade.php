@@ -9,7 +9,7 @@
 </head>
 <body>
     <article>
-        <h1><a href="/post">Paparazzi</a></h1>
+        <h1><a href="/posts/paparazzi">Paparazzi</a></h1>
         <p>
             I'm your biggest fan, I'll follow you until you love me Papa-paparazzi
             Baby, there's no other superstar, you know that I'll be
@@ -22,7 +22,7 @@
     </article>
 
     <article>
-        <h1><a href="/post">Greedy</a></h1>
+        <h1><a href="/posts/greedy">Greedy</a></h1>
         <p>
             Been in this state of mind
             Been in this state of mind
@@ -36,7 +36,7 @@
     </article>
 
     <article>
-        <h1><a href="/post">Liberian Girl</a></h1>
+        <h1><a href="/posts/liberiangirl">Liberian Girl</a></h1>
         <p>
             Liberian girl
             You came and you changed my world
