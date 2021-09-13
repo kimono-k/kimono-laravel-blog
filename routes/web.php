@@ -17,5 +17,9 @@ use Illuminate\Support\Facades\Route;
  * If the user requests the home page, then return view (welcome.blade)
  */
 Route::get('/', function () {
-    return view('welcome');
+    return view('posts');
+});
+
+Route::get('post', function () {
+    return view('post');
 });
